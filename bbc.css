@@ -1,0 +1,164 @@
+#topbar{
+    width:1000px;
+    margin: 0 auto;
+    height: 40px;
+    /* padding-bottom: 3px; */
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo{
+    margin-top: 5px;
+    width: 100px;
+    float: left;
+    margin-right: 8px;
+}
+.topbar-section{
+    float: left;
+    border-left: 1px solid #cccccc;
+    height: 100%;
+}
+.topbar-menu{
+    float: left;
+    font-weight: bold;
+    position: relative;
+    padding: 14px 10px 0px;
+    height: 26px;
+}
+#logo-sign{
+    width: 35px;
+    height: 30px;
+    margin: 5px 10px;
+    float: left;
+}
+.signin-text{   
+    font-weight: bold;
+    font-size: 100%;
+    position: relative;
+    top: 12px;
+    padding-right: 40px;
+}
+.bell-div{
+    float: left;
+    height: 40px;
+}
+#wigli-line{
+    float: left;
+    height: 40px;    
+}
+#bell{    
+    /* height: 30px; */
+    width: 30px;
+    margin: 10px 0px;
+    padding-right: 10px;
+}
+#arrow{
+    float: left;
+    width: 30px;
+    /* height: 35px; */
+    margin: 3px 0px 0px 10px; 
+}
+.arrow-div{
+    float: left;
+}
+#search{
+    float: left;
+    position: relative;
+    border: none;
+    margin: 8px 0px 0px 5px;
+    background-color: #e4e4e4;
+    height: 24px;
+    font-size: 100%;
+    font-weight: bold;
+}
+.magnifier{
+    margin-top: 8px;
+    width: 27px;
+}
+.clear{
+    clear: both;
+}
+#menu-bar-conteiner{
+    position: relative;
+    padding: 0px;
+    background-color: #bc301a;
+    width: 100%;
+    height: 70px;
+
+}
+.menu-bar{
+    width:1000px;
+    margin: 0 auto;
+}
+h1{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    font-size: 40px;
+    font-weight: normal;
+    padding-top: 15px;
+    float: left;
+}
+.local-news{
+    float: right;
+    border: 1px solid #bb4545;
+    margin-top: 15px;
+
+
+}
+.pointer{
+    width: 25px;
+    height: 30px;
+    margin-top: 5px;
+   
+}
+.local-news a {
+   
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    top: -10px;
+    padding-left: 5px;
+}
+
+.local-news a:hover{
+    text-decoration: underline;
+}
+.menu-bar-conteiner2{
+    position: relative;
+    padding: 0px;
+    background-color: #a92b17;
+    width: 100%;
+    height: 40px;
+}
+.menu-bar2{
+    width: 1000px;
+    margin: 0px auto;
+    height: 40px;
+}
+.menu-bar2 a{
+    float: left;
+    color: white;
+    text-decoration: none;
+    padding: 0px 10px;
+    border-right: 1px solid #bb4545;
+    font-size: 16px;
+    position: relative;
+    top: 10px;
+}
+.menu-bar2 a:hover{
+    /* text-decoration: underline; */
+    border-bottom: 5px solid white;
+}
+.more{
+    width: 15px;
+    height: 15px;
+    margin-top: 10px;
+}
+
+.no-border{
+    border: none !important;
+}
